@@ -1,0 +1,24 @@
+{
+  "$id": "c_photo",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "Photo",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "imageType": {
+      "minSize": {
+        "width": 0,
+        "height": 0
+      },
+      "allowedAspectRatio": [
+        {
+          "horizontalFactor": 4,
+          "verticalFactor": 5
+        }
+      ],
+      "unconstrainedAspectRatioAllowed": false
+    }
+  },
+  "typeId": "yext/image"
+}

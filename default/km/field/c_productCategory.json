@@ -1,0 +1,31 @@
+{
+  "$id": "c_productCategory",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Product Category",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "yext/option",
+      "type": {
+        "optionType": {
+          "option": [
+            {
+              "displayName": "Category A",
+              "textValue": "CATEGORY_A"
+            },
+            {
+              "displayName": "Category B",
+              "textValue": "CATEGORY_B"
+            },
+            {
+              "displayName": "Category C",
+              "textValue": "CATEGORY_C"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "yext/list"
+}

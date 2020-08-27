@@ -1,0 +1,21 @@
+{
+  "$id": "40244146",
+  "$schema": "https://schema.yext.com/config/km/saved-filter/v1",
+  "name": "Products on Answers",
+  "filter": {
+    "entityField": [
+      {
+        "fieldId": "c_activeInAnswers",
+        "searchBool": "TRUE"
+      }
+    ],
+    "entityType": [
+      {
+        "entityTypeId": [
+          "ce_product"
+        ],
+        "type": "IS"
+      }
+    ]
+  }
+}

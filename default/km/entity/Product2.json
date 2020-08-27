@@ -1,0 +1,47 @@
+{
+  "$id": "Product2",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "content": {
+    "c_activeInAnswers": true,
+    "c_photo": {
+      "image": {
+        "height": 1125,
+        "sourceUrl": "https://a.mktgcdn.com/p/x89ZrZmwWv1QvwCtFe3gZdhBhrFOHKaqmKzLzwnlsY0/900x900.png",
+        "thumbnails": [
+          {
+            "height": 773,
+            "url": "https://a.mktgcdn.com/p/gG8NzMkCOFaDBtgu5pfz84fYJrqHn_nGTIFnlkmHNPI/619x773.png",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p/gG8NzMkCOFaDBtgu5pfz84fYJrqHn_nGTIFnlkmHNPI/360x450.png",
+            "width": 360
+          },
+          {
+            "height": 244,
+            "url": "https://a.mktgcdn.com/p/gG8NzMkCOFaDBtgu5pfz84fYJrqHn_nGTIFnlkmHNPI/196x244.png",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p/gG8NzMkCOFaDBtgu5pfz84fYJrqHn_nGTIFnlkmHNPI/900x1125.png",
+        "width": 900
+      }
+    },
+    "c_price": "50",
+    "c_primaryCTA": {
+      "label": "Buy Now",
+      "link": "http://https://www.yext.com",
+      "linkType": "URL"
+    },
+    "c_productCategory": [
+      "CATEGORY_B",
+      "CATEGORY_C"
+    ],
+    "yext/description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "yext/landingPageUrl": "https://www.yext.com",
+    "yext/name": "Product 2"
+  },
+  "entityType": "ce_product",
+  "labels": []
+}
