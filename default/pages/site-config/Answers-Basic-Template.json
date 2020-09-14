@@ -1,7 +1,7 @@
 {
-  "$id": "primary-playback-siren-8d1a6",
+  "$id": "Answers-Basic-Template",
   "$schema": "https://schema.yext.com/config/pages/site-config/v1",
-  "siteName": "Answers",
+  "siteName": "Answers - Basic Template",
   "repoConfig": {
     "targetRepoName": "basic-template-answers-site-${{businessId}}.com",
     "templateRepo": "https://github.com/yext-pages/answers-template-basic-free-trial-solution"
