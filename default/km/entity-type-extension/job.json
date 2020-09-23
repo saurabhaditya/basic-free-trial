@@ -9,10 +9,6 @@
       "required": false
     },
     {
-      "id": "c_answersKeywords",
-      "required": false
-    },
-    {
       "id": "c_department",
       "required": false
     },

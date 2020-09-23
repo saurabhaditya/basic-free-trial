@@ -18,6 +18,9 @@
         },
         "name": {
           "textSearch": true
+        },
+        "keywords": {
+          "textSearch": true
         }
       },
       "sortBys": [],
@@ -48,6 +51,9 @@
         },
         "name": {
           "textSearch": true
+        },
+        "keywords": {
+          "textSearch": true
         }
       },
       "sortBys": [],
@@ -64,7 +70,7 @@
         "builtin.entityType": {
           "nlpFilter": true
         },
-        "c_answersKeywords": {
+        "keywords": {
           "textSearch": true
         },
         "c_productCategory": {
