@@ -5,27 +5,7 @@
     "c_activeInAnswers": true,
     "c_photo": {
       "image": {
-        "height": 1125,
-        "sourceUrl": "https://a.mktgcdn.com/p/x89ZrZmwWv1QvwCtFe3gZdhBhrFOHKaqmKzLzwnlsY0/900x900.png",
-        "thumbnails": [
-          {
-            "height": 773,
-            "url": "https://a.mktgcdn.com/p/gG8NzMkCOFaDBtgu5pfz84fYJrqHn_nGTIFnlkmHNPI/619x773.png",
-            "width": 619
-          },
-          {
-            "height": 450,
-            "url": "https://a.mktgcdn.com/p/gG8NzMkCOFaDBtgu5pfz84fYJrqHn_nGTIFnlkmHNPI/360x450.png",
-            "width": 360
-          },
-          {
-            "height": 244,
-            "url": "https://a.mktgcdn.com/p/gG8NzMkCOFaDBtgu5pfz84fYJrqHn_nGTIFnlkmHNPI/196x244.png",
-            "width": 196
-          }
-        ],
-        "url": "https://a.mktgcdn.com/p/gG8NzMkCOFaDBtgu5pfz84fYJrqHn_nGTIFnlkmHNPI/900x1125.png",
-        "width": 900
+        "url": "https://a.mktgcdn.com/p/gG8NzMkCOFaDBtgu5pfz84fYJrqHn_nGTIFnlkmHNPI/900x1125.png"
       }
     },
     "c_price": "50",
