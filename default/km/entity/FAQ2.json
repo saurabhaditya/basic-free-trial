@@ -2,7 +2,7 @@
   "$id": "FAQ2",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "content": {
-    "c_activeInAnswers": true,
+    "c_activeInAnswers": "YES",
     "c_primaryCTA": {
       "label": "Visit Hitchhikers",
       "link": "http://hitchhikers.yext.com/login",

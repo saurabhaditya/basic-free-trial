@@ -2,7 +2,7 @@
   "$id": "FAQ3",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "content": {
-    "c_activeInAnswers": true,
+    "c_activeInAnswers": "YES",
     "c_primaryCTA": {
       "label": "Upgrade Your Account",
       "link": "https://www.yext.com/about/contact/sales/",

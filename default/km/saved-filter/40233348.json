@@ -6,7 +6,12 @@
     "entityField": [
       {
         "fieldId": "c_activeInAnswers",
-        "searchBool": "TRUE"
+        "filterOption": {
+          "choice": [
+            "NO"
+          ],
+          "type": "IS_NOT"
+        }
       }
     ],
     "entityType": [
@@ -15,14 +20,6 @@
           "yext/faq"
         ],
         "type": "IS"
-      }
-    ],
-    "fieldsWithData": [
-      {
-        "fieldId": [
-          "yext/answer"
-        ],
-        "type": "ANY"
       }
     ]
   }
