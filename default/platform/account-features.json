@@ -1,22 +1,7 @@
 {
   "$schema": "https://schema.yext.com/config/platform/account-features/v1",
   "enabled": [
-    318,
-    321,
-    319,
-    330,
-    328,
-    329,
-    333,
-    336,
-    337,
-    346,
-    350,
-    307,
-    334,
-    342,
-    344,
-    323
+    318
   ],
   "disabled": []
 }
