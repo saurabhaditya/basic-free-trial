@@ -17,7 +17,7 @@
           "nlpFilter": true
         },
         "name": {
-          "textSearch": true
+          "semanticTextSearch": true
         },
         "keywords": {
           "textSearch": true
