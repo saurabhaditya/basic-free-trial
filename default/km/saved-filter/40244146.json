@@ -17,7 +17,7 @@
     "entityType": [
       {
         "entityTypeId": [
-          "ce_product"
+          "yext/product"
         ],
         "type": "IS"
       }

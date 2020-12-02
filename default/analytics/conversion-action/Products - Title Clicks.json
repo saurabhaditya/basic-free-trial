@@ -14,7 +14,7 @@
         "clickType": "TITLE",
         "entityFilter": {
           "entityTypeIn": [
-            "ce_product"
+            "yext/product"
           ]
         },
         "media": [

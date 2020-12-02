@@ -61,24 +61,45 @@
     },
     "products": {
       "entityTypes": [
-        "ce_product"
+        "product"
       ],
-      "facetOrder": [],
       "name": "Products",
       "savedSearchId": "40244146",
       "searchableFields": {
-        "builtin.entityType": {
+        "brand": {
+          "facet": true,
           "nlpFilter": true
         },
-        "keywords": {
-          "textSearch": true
+        "builtin.entityType": {
+          "nlpFilter": true
         },
         "c_productCategory": {
           "facet": true,
           "nlpFilter": true
         },
+        "color": {
+          "facet": true,
+          "nlpFilter": true
+        },
+        "keywords": {
+          "textSearch": true
+        },
         "name": {
           "textSearch": true
+        },
+        "parentProduct.name": {
+          "textSearch": true
+        },
+        "salesChannel": {
+          "facet": true
+        },
+        "size": {
+          "facet": true,
+          "nlpFilter": true
+        },
+        "stockStatus": {
+          "facet": true,
+          "nlpFilter": true
         }
       },
       "sortBys": [],
