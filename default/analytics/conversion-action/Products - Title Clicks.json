@@ -1,5 +1,5 @@
 {
-  "$id": "1010",
+  "$id": "c_products-title-clicks",
   "$schema": "https://schema.yext.com/config/analytics/conversion-action/v2",
   "conversionName": "Products - Title Clicks",
   "conversionType": "OTHER",
