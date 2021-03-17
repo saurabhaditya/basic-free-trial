@@ -106,14 +106,6 @@
       "source": "KNOWLEDGE_MANAGER"
     }
   },
-  "autocomplete": {
-    "disablePopularQueries": false,
-    "hardcodedPrompts": [
-      "Locations near me",
-      "FAQs",
-      "Products"
-    ]
-  },
   "synonyms": {
     "oneWay": [],
     "synonymSet": [
@@ -142,5 +134,23 @@
     ]
   },
   "localizations": {},
-  "additionalStopWords": []
+  "additionalSearchablePlaces": [],
+  "querySuggestions": {
+    "popularQueriesBlacklistedTerms": [],
+    "universalPrompts": [
+      "Locations near me",
+      "FAQs",
+      "Products"
+    ],
+    "verticalPrompts": {
+      "faqs": [
+        "[[name]]"
+      ],
+      "locations": [
+        "Locations near [[address.city]]",
+        "Locations near [[address.region]]",
+        "Locations near me"
+      ]
+    }
+  }
 }
