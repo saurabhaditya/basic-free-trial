@@ -150,6 +150,9 @@
         "Locations near [[address.city]]",
         "Locations near [[address.region]]",
         "Locations near me"
+      ],
+      "products": [
+        "[[name]]"
       ]
     }
   }
