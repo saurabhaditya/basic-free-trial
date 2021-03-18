@@ -35,6 +35,13 @@
       "useSynonyms": "ALL_SYNONYMS"
     },
     "locations": {
+      "directAnswers": {
+        "fieldValues": {
+          "eligibleFields": [
+            "mainPhone"
+          ]
+        }
+      },
       "entityTypes": [
         "location"
       ],
@@ -46,8 +53,7 @@
           "nlpFilter": true
         },
         "builtin.location": {
-          "nlpFilter": true,
-          "textSearch": true
+          "nlpFilter": true
         },
         "name": {
           "textSearch": true
