@@ -5,8 +5,8 @@
     "yext/address": {
       "city": "New York",
       "countryCode": "US",
-      "line1": "1 Madison Ave",
-      "postalCode": "10010",
+      "line1": "61 9th Ave",
+      "postalCode": "10011",
       "region": "NY"
     },
     "yext/addressHidden": false,
