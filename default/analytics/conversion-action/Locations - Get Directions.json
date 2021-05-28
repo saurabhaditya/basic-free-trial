@@ -4,7 +4,7 @@
   "conversionName": "Locations - Get Directions",
   "conversionType": "LEAD",
   "conversionValueType": "SAME",
-  "conversionValueAmount": 5.0,
+  "conversionValueAmount": 50.0,
   "conversionTerm": {
     "startDate": "2020-08-27"
   },
@@ -24,7 +24,7 @@
         ]
       }
     ],
-    "completionRate": 50.0
+    "completionRate": 25.0
   },
   "enabled": true
 }
