@@ -2,7 +2,7 @@
   "$id": "healthcareProfessional",
   "$schema": "https://schema.yext.com/config/km/entity-type-extension/v1",
   "enabled": false,
-  "entityType": "yext/healthcareProfessional",
+  "entityType": "healthcareProfessional",
   "field": [
     {
       "id": "c_activeInAnswers",

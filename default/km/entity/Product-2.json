@@ -12,11 +12,11 @@
       "CATEGORY_B",
       "CATEGORY_C"
     ],
-    "yext/color": "Yellow",
-    "yext/landingPageUrl": "https://www.yext.com",
-    "yext/name": "Product 2",
-    "yext/parentProduct": "Product-1",
-    "yext/photoGallery": [
+    "color": "Yellow",
+    "landingPageUrl": "https://www.yext.com",
+    "name": "Product 2",
+    "parentProduct": "Product-1",
+    "photoGallery": [
       {
         "image": {
           "height": 244,
@@ -26,12 +26,12 @@
         }
       }
     ],
-    "yext/price": {
+    "price": {
       "currencyCode": "USD",
       "value": "50"
     },
-    "yext/richTextDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    "richTextDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   },
-  "entityType": "yext/product",
+  "entityType": "product",
   "labels": []
 }

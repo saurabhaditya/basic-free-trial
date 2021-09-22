@@ -2,5 +2,5 @@
   "$id": "hotel",
   "$schema": "https://schema.yext.com/config/km/entity-type-extension/v1",
   "enabled": false,
-  "entityType": "yext/hotel"
+  "entityType": "hotel"
 }

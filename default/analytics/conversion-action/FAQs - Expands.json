@@ -14,7 +14,7 @@
         "clickType": "ROW_EXPAND",
         "entityFilter": {
           "entityTypeIn": [
-            "yext/faq"
+            "faq"
           ]
         },
         "media": [

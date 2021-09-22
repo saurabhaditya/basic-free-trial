@@ -6,15 +6,15 @@
   "enabled": false,
   "field": [
     {
-      "id": "yext/landingPageUrl",
+      "id": "landingPageUrl",
       "required": false
     },
     {
-      "id": "yext/description",
+      "id": "description",
       "required": false
     },
     {
-      "id": "yext/name",
+      "id": "name",
       "required": true
     },
     {
@@ -22,7 +22,7 @@
       "required": false
     },
     {
-      "id": "yext/keywords",
+      "id": "keywords",
       "required": false
     },
     {
@@ -46,15 +46,15 @@
       "required": false
     },
     {
-      "id": "yext/folder",
+      "id": "folder",
       "required": false
     },
     {
-      "id": "yext/labels",
+      "id": "labels",
       "required": false
     },
     {
-      "id": "yext/entityId",
+      "id": "entityId",
       "required": true
     }
   ],

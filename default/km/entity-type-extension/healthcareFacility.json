@@ -2,7 +2,7 @@
   "$id": "healthcareFacility",
   "$schema": "https://schema.yext.com/config/km/entity-type-extension/v1",
   "enabled": false,
-  "entityType": "yext/healthcareFacility",
+  "entityType": "healthcareFacility",
   "field": [
     {
       "id": "c_activeInAnswers",

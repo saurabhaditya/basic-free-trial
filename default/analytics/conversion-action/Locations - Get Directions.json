@@ -14,7 +14,7 @@
         "clickType": "DRIVING_DIRECTIONS",
         "entityFilter": {
           "entityTypeIn": [
-            "yext/location"
+            "location"
           ]
         },
         "media": [

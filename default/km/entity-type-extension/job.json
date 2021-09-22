@@ -2,7 +2,7 @@
   "$id": "job",
   "$schema": "https://schema.yext.com/config/km/entity-type-extension/v1",
   "enabled": true,
-  "entityType": "yext/job",
+  "entityType": "job",
   "field": [
     {
       "id": "c_activeInAnswers",

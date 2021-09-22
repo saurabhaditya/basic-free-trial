@@ -2,7 +2,7 @@
   "$id": "event",
   "$schema": "https://schema.yext.com/config/km/entity-type-extension/v1",
   "enabled": true,
-  "entityType": "yext/event",
+  "entityType": "event",
   "field": [
     {
       "id": "c_activeInAnswers",

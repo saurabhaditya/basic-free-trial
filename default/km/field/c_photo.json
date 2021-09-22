@@ -16,5 +16,5 @@
       "noAllowedAspectRatios": true
     }
   },
-  "typeId": "yext/image"
+  "typeId": "image"
 }

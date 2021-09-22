@@ -14,7 +14,7 @@
         "clickType": "TITLE",
         "entityFilter": {
           "entityTypeIn": [
-            "yext/location"
+            "location"
           ]
         },
         "media": [

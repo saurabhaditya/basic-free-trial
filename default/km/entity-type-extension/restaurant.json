@@ -2,7 +2,7 @@
   "$id": "restaurant",
   "$schema": "https://schema.yext.com/config/km/entity-type-extension/v1",
   "enabled": false,
-  "entityType": "yext/restaurant",
+  "entityType": "restaurant",
   "field": [
     {
       "id": "c_activeInAnswers",

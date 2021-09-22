@@ -7,7 +7,7 @@
   "localization": "PRIMARY_ONLY",
   "type": {
     "listType": {
-      "typeId": "yext/string",
+      "typeId": "string",
       "type": {
         "stringType": {
           "stereotype": "SIMPLE"
@@ -15,5 +15,5 @@
       }
     }
   },
-  "typeId": "yext/list"
+  "typeId": "list"
 }
