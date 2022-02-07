@@ -1,0 +1,13 @@
+{
+  "$id": "healthcareFacility.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Healthcare Facility-default",
+  "entityType": "healthcareFacility",
+  "fields": [
+    "c_activeInAnswers",
+    "c_associatedProfessionals",
+    "c_associatedSpecialty",
+    "c_primaryCTA",
+    "c_secondaryCTA"
+  ]
+}

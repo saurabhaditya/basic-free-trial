@@ -1,0 +1,15 @@
+{
+  "$id": "ce_specialty.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Specialty-default",
+  "entityType": "ce_specialty",
+  "fields": [
+    "landingPageUrl",
+    "description",
+    "c_activeInAnswers",
+    "keywords",
+    "c_photo",
+    "c_primaryCTA",
+    "c_secondaryCTA"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "ce_menuItem.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Menu Item-default",
+  "entityType": "ce_menuItem",
+  "fields": [
+    "description",
+    "c_activeInAnswers",
+    "c_allergens",
+    "keywords",
+    "c_calories",
+    "c_menuCategory",
+    "c_photo",
+    "c_price",
+    "c_primaryCTA",
+    "c_secondaryCTA",
+    "websiteUrl"
+  ]
+}
