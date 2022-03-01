@@ -1,18 +1,18 @@
 {
-  "$id": "ce_service.default",
+  "$id": "basicSolution_ce_leadership",
   "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
-  "name": "Service-default",
-  "entityType": "ce_service",
+  "name": "basicSolution_Leadership-default",
+  "entityType": "ce_leadership",
   "fields": [
     "landingPageUrl",
     "description",
     "c_activeInAnswers",
     "keywords",
-    "c_associatedLocations",
-    "c_associatedProfessionals",
-    "c_photo",
     "c_primaryCTA",
     "c_secondaryCTA",
-    "c_serviceCategory"
+    "c_title",
+    "firstName",
+    "headshot",
+    "lastName"
   ]
 }

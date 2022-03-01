@@ -1,0 +1,17 @@
+{
+  "$id": "basicSolution_ce_condition",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "basicSolution_Condition-default",
+  "entityType": "ce_condition",
+  "fields": [
+    "landingPageUrl",
+    "description",
+    "c_activeInAnswers",
+    "keywords",
+    "c_associatedLocations",
+    "c_associatedProfessionals",
+    "c_associatedSpecialty",
+    "c_primaryCTA",
+    "c_secondaryCTA"
+  ]
+}

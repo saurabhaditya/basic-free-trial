@@ -1,7 +1,7 @@
 {
-  "$id": "ce_specialty.default",
+  "$id": "basicSolution_ce_specialty",
   "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
-  "name": "Specialty-default",
+  "name": "basicSolution_Specialty-default",
   "entityType": "ce_specialty",
   "fields": [
     "landingPageUrl",

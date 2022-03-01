@@ -1,7 +1,7 @@
 {
-  "$id": "ce_menuItem.default",
+  "$id": "basicSolution_ce_menuItem",
   "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
-  "name": "Menu Item-default",
+  "name": "basicSolution_Menu Item-default",
   "entityType": "ce_menuItem",
   "fields": [
     "description",

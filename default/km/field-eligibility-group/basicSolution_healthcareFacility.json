@@ -1,7 +1,7 @@
 {
-  "$id": "healthcareFacility.default",
+  "$id": "basicSolution_healthcareFacility",
   "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
-  "name": "Healthcare Facility-default",
+  "name": "basicSolution_Healthcare Facility-default",
   "entityType": "healthcareFacility",
   "fields": [
     "c_activeInAnswers",

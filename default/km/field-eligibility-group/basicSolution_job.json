@@ -1,10 +1,11 @@
 {
-  "$id": "faq.default",
+  "$id": "basicSolution_job",
   "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
-  "name": "FAQ-default",
-  "entityType": "faq",
+  "name": "basicSolution_Job-default",
+  "entityType": "job",
   "fields": [
     "c_activeInAnswers",
+    "c_department",
     "c_primaryCTA",
     "c_secondaryCTA"
   ]

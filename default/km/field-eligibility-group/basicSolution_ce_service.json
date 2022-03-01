@@ -1,8 +1,8 @@
 {
-  "$id": "ce_condition.default",
+  "$id": "basicSolution_ce_service",
   "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
-  "name": "Condition-default",
-  "entityType": "ce_condition",
+  "name": "basicSolution_Service-default",
+  "entityType": "ce_service",
   "fields": [
     "landingPageUrl",
     "description",
@@ -10,8 +10,9 @@
     "keywords",
     "c_associatedLocations",
     "c_associatedProfessionals",
-    "c_associatedSpecialty",
+    "c_photo",
     "c_primaryCTA",
-    "c_secondaryCTA"
+    "c_secondaryCTA",
+    "c_serviceCategory"
   ]
 }
